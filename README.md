@@ -5,9 +5,9 @@ Miniproyecto 2025B/ALGORITMOS Y PROGRAMACIÓN II/APO25
 ## 📋 Información del Proyecto
 
 **Asignatura:** Programación Orientada a Objetos  
-**Período:** Diciembre 2024  
-**Vencimiento:** 5 de diciembre de 2024  
-**Integrantes:** [Nombre Estudiante 1] - [Nombre Estudiante 2]
+**Período:** Diciembre 2025  
+**Vencimiento:** 5 de diciembre de 2025  
+**Integrantes:** Santiago Otalvaro Franco
 
 ---
 
