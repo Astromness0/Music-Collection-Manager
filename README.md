@@ -235,7 +235,7 @@ Favoritas,The Beatles|Hey Jude|428,Pink Floyd|Comfortably Numb|383
 
 ##  Video de Presentación
 
-Disponible en: [Enlace o adjuntado]
+Disponible en: (https://pregradov.usc.edu.co/draftfile.php/87819/user/draft/627406890/Explicacion-vid.mp4?time=1764973372000)
 
 **Duración:** 10 minutos  
 **Contenido:**
@@ -260,7 +260,7 @@ Disponible en: [Enlace o adjuntado]
 
 ##  Contribuidores
 
-- **Estudiante 1:** [Santiago Otalvaro] - Paquete Model + Controller + Paquete View + Util
+- **Estudiante :** [Santiago Otalvaro] - Paquete Model + Controller + Paquete View + Util
 
 ---
 
